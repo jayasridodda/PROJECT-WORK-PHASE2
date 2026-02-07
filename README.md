@@ -45,7 +45,7 @@ The system follows this pipeline:
 
 ### 1. Clone the Repository
 ```
-git clone [https://github.com/Gopika-9266/Forensic-Face-Sketch-Matching.git](https://github.com/Gopika-9266/Forensic-Face-Sketch-Matching.git)
+git clone [https://github.com/jayasridodda/PROJECT-WORK-PHASE2.git](https://github.com/jayasridodda/PROJECT-WORK-PHASE2.git)
 
 cd Forensic-Face-Sketch-Matching
 ```
